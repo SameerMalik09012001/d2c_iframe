@@ -15,7 +15,7 @@ export default function Home() {
 
       Use Case: Customer Service
 
-      Customer Service Details: None
+      Customer Service Details: None 
 
 
       Tone & Personality:
